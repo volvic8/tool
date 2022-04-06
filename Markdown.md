@@ -6,3 +6,4 @@
 ## 参考
 - [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 - [行政文書をマークダウン化しよう！ところでマークダウンって何？](https://metidx-gov.note.jp/n/n2bd18b23dba3)
+- [Visual Studio Code＋Markdownでチャート／グラフ／図を描画するには？](https://blog.masahiko.info/entry/2019/08/16/160422)
